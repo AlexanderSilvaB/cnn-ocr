@@ -1,0 +1,5 @@
+numpy
+sklearn
+opencv-python
+keras
+mnist
